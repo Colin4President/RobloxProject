@@ -1,9 +1,15 @@
 {
-  "datastore":"ok",
+  "game":
+  [{
+    "version":"0.1",
+    "update":"no updates"
+  }],
+  "servers":"online",
   "data":
-  [
-    {
-      "version":"0.1",
-    }
-  ]
+  [{
+    "banned":
+    [{
+      "717521694":"test"
+    }]
+  }]
 }
